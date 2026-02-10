@@ -224,18 +224,3 @@ scipy
 streamlit (optional for web app)
 ```
 
----
-
-## 📝 License
-
-Educational project - Free to use!
-
----
-
-## 👨‍💻 Author
-
-Created as a mini college project for learning machine learning fundamentals.
-
----
-
-**Happy Reading! 📚✨**

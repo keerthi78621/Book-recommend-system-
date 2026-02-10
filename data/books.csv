@@ -1,0 +1,11 @@
+book_id,title,authors,average_rating,ratings_count,genres
+1,The Hobbit,J.R.R. Tolkien,4.26,2100000,"Fantasy, Adventure"
+2,The Fellowship of the Ring,J.R.R. Tolkien,4.45,1900000,"Fantasy, Adventure"
+3,The Two Towers,J.R.R. Tolkien,4.43,1800000,"Fantasy, Adventure"
+4,The Return of the King,J.R.R. Tolkien,4.45,1750000,"Fantasy, Adventure"
+5,Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,2000000,"Fantasy, Young Adult"
+6,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.42,1950000,"Fantasy, Young Adult"
+7,The Lightning Thief,Rick Riordan,4.28,900000,"Fantasy, Young Adult"
+8,The Sea of Monsters,Rick Riordan,4.25,850000,"Fantasy, Young Adult"
+9,"The Lion, the Witch and the Wardrobe",C.S. Lewis,4.21,1200000,"Fantasy, Children"
+10,The Magician's Nephew,C.S. Lewis,4.22,800000,"Fantasy, Children"
